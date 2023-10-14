@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![@CarlosRuiz-globalqss's Holopin board](https://holopin.io/api/user/board?user=carlosruizglobalqss)](https://holopin.io/@carlosruizglobalqss)
+[![@CarlosRuiz-globalqss's Holopin board](https://holopin.me/carlosruizglobalqss)](https://holopin.io/@carlosruizglobalqss)
 
 <!--
 **CarlosRuiz-globalqss/CarlosRuiz-globalqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
